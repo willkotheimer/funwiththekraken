@@ -1,18 +1,24 @@
 body {
-    background-color: beige;
-    font-size:40px;
+  background-color: beige;
+  font-size: 40px;
 }
 
- .container {
-    text-align: center;
-    border: 2px black;
-    background-color: white;
-    margin: 2px;
-      }
-#score{
+.container {
+  text-align: center;
+  border: 2px black;
+  background-color: white;
+  margin: 2px;
+}
+#score {
   font-size: 10em;
-  
 }
 
+/* yer css is bad and you should feel bad */
+/* used prettier to clean formatting */
 
-
+h1 {
+  border: 2px solid deeppink;
+  border-radius: 10px;
+  font-kerning: auto;
+  background-color: purple;
+}
