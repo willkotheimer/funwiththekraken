@@ -13,8 +13,13 @@ body {
   font-size: 10em;
 }
 
-/* yer css is bad and you should feel bad */
-/* used prettier to clean formatting */
+
+h2 {
+  color: green;
+  text-align: center;
+}
+
+
 
 h1 {
   border: 2px solid deeppink;
