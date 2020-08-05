@@ -14,5 +14,14 @@ body {
   
 }
 
+h1 {
+  color: red;
+  text-size-adjust: 40px;
+}
+
+h2 {
+  color: green;
+  text-align: center;
+}
 
 
