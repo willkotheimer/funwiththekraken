@@ -27,3 +27,7 @@ h1 {
   font-kerning: auto;
   background-color: purple;
 }
+
+li {
+  color: brown;
+}
